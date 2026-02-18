@@ -134,6 +134,8 @@ Expected Output:
 ## 👨‍💻 Developed By
 
 Prashanth  
+Koushik
+Narender
 B.Tech – Computer Science (Data Science)
 
 ---
